@@ -110,6 +110,7 @@ Notes:
 * Dafny
   * `dafny`!!
 * Dart
+  * `analysis_server`
   * `dartanalyzer`!!
   * `dartfmt`!!
   * `language_server`
